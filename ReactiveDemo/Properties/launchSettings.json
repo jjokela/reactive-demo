@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReactiveDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReactiveDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
